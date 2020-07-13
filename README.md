@@ -1,3 +1,5 @@
 # PythonPdfToAudio
-pip install pyttsx3
-pip install PyPDF2
+1. pip install pyttsx3
+
+
+2. pip install PyPDF2
